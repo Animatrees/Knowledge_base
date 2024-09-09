@@ -129,3 +129,4 @@ P.S. у merge есть ещё несколько вариаций, но их р�
 [![](https://miro.medium.com/v2/resize:fit:1400/0*0BgII1PmO8JzjnXD.gif)](https://miro.medium.com/v2/resize:fit:1400/0*0BgII1PmO8JzjnXD.gif)
 
 [![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhW5WSCRH1dneU6c.gif)](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhW5WSCRH1dneU6c.gif)
+<div class="page-break" style="page-break-before: always;"></div>

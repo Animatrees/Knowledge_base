@@ -61,3 +61,4 @@
 
 - Вы также можете создать файл `.gitignore_global`, который будет применяться ко всем вашим репозиториям.
 - Для этого укажите путь к файлу `.gitignore_global` в настройках Git.
+<div class="page-break" style="page-break-before: always;"></div>
