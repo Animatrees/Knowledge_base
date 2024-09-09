@@ -342,7 +342,3 @@
     
 
 Вот, собственно и все шаги)
-
-Подробнее про Git и работу с ним писала здесь:
-
-[![](https://www.notion.so/icons/git_green.svg)Git 101](https://www.notion.so/Git-101-d36cf8ea9bd440649148cd71c0e4f406?pvs=21)
